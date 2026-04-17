@@ -1,0 +1,16 @@
+.idea/
+CLAUDE.md
+.claude
+pickles_tmp/
+scraped_data
+pickles/
+
+.env
+output_csv/
+BERTopic/
+BERTopic_pre-merge/
+embeddings/
+setfit/
+
+data_preparation.ipynb
+extract_urls.py
